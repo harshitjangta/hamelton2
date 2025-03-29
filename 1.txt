@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 write in 1st file
+=======
+new file
+>>>>>>> feature-branch
+hello  i am harshit 
